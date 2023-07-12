@@ -3,6 +3,7 @@
 ## 1.1 About Version Control
 
 Imagine you're creating a masterpiece, let's say a grand mural on a wall. With every brush stroke, the picture becomes more complex, more detailed. But what if you make a mistake? If only there was a magical button you could press to "undo" that stroke and try again.  
+
 ![image](https://github.com/steve3535/git_101/assets/5098596/04b515f4-5dfc-4ae1-8337-f38d51cc88ef)
 
 That, my friend, is the essence of version control. A digital "undo" button. But it's more than that. It’s like having a time machine! Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. So not only can you travel back to the moment before you made the last brush stroke but to any point in time when you saved your work. Fancy that!
@@ -10,6 +11,9 @@ That, my friend, is the essence of version control. A digital "undo" button. But
 ## 1.2 A Short History of Git
 
 Our time machine, Git, hasn't been around since the dawn of time though. Back in 2005, a man named Linus Torvalds, better known as the creator of the Linux operating system, decided he was fed up with available tools. He wanted a version control system that was fast, had integrity, and supported non-linear workflows. So, like a true superhero, he built it himself! And thus, Git was born.
+
+![image](https://github.com/steve3535/git_101/assets/5098596/a3327b0b-4210-4ec1-ae47-87d6cd228c51)
+
 
 ## 1.3 What is Git?
 
